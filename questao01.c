@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main)
 {
   float A1, A2;
   printf("Nota A1: ");
