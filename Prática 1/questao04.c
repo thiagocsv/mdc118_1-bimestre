@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
   float initial, ICMS = 0.17, COFINS = 0.076, PIS_PASEP = 0.0165;
   printf("Valor do produto: ");
   scanf("%f", &initial);
