@@ -9,4 +9,5 @@ int main()
   scanf("%d", &height);
   int area = ((base*height)/2);
   printf("Sua área é de %d", area);
+  return 0;
 }
