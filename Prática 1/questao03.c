@@ -8,4 +8,5 @@ int main()
   scanf("%d", &r);
   float per = 2*pi*r;
   printf("A medida do perímeto é de %.1f", per);
+  return 0;
 }
