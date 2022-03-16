@@ -2,7 +2,7 @@
 
 int main()
 {
-  float purchase
+  float purchase;
   int year, dep;
   printf("Valor do Veiculo: ");
   scanf("%f", &purchase);
